@@ -1094,29 +1094,6 @@ a {
   text-align: left;
   color: #000000;
 }
-.cid-sMu5FRIeZJ {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sMu5FRIeZJ ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 2.5rem;
-}
-.cid-sMu5FRIeZJ li {
-  position: relative;
-  margin-bottom: 1rem;
-}
-.cid-sMu5FRIeZJ ul li::before {
-  position: absolute;
-  left: -1.6rem;
-  content: "\2022";
-  color: #a6a6a6;
-  font-weight: bold;
-  font-size: 2rem;
-  width: 1.6rem;
-}
 .cid-sNBTCQTVKY {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -1141,7 +1118,7 @@ a {
   width: 1.6rem;
 }
 .cid-sNBTZCiNAx {
-  padding-top: 0rem;
+  padding-top: 3rem;
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
