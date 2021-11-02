@@ -1086,7 +1086,11 @@ a {
   background-color: #ffffff;
 }
 .cid-sEJhJE0DwX blockquote {
+<<<<<<< HEAD
   border-color: #a6a6a6;
+=======
+  border-color: #4479d9;
+>>>>>>> 2f1a80ac66fd79ee22177fc529bec74cebd680e9
   border-radius: 4px;
   background-color: #fafafa;
 }
@@ -1112,7 +1116,11 @@ a {
   position: absolute;
   left: -1.6rem;
   content: "\2022";
+<<<<<<< HEAD
   color: #a6a6a6;
+=======
+  color: #6592e6;
+>>>>>>> 2f1a80ac66fd79ee22177fc529bec74cebd680e9
   font-weight: bold;
   font-size: 2rem;
   width: 1.6rem;
